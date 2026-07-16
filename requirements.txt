@@ -1,0 +1,2 @@
+pip install SpeechRecognition pyttsx3 pyautogui plyer pywhatkit wikipedia requests
+pip install pyaudio  # For microphone support
